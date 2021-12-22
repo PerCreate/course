@@ -1,0 +1,14 @@
+{
+	"lessons": {
+		"1": {
+			"url": "urlFirst",
+			"theme": "First lesson",
+			"description": "First lesson description"
+		},
+		"2": {
+			"url": "urlSecond",
+			"theme": "Second lesson",
+			"description": "Second lesson description"
+		}
+	}
+}
